@@ -1,0 +1,22 @@
+package com.example.springidol;
+
+public class Song {
+	private String title;
+	private String artist;
+	
+	// 생성자
+	
+	public String getTitle() {
+		return title;
+	}
+	public void setTitle(String title) {
+		this.title = title;
+	}
+	public String getArtist() {
+		return artist;
+	}
+	public void setArtist(String artist) {
+		this.artist = artist;
+	}
+	
+}
