@@ -137,3 +137,5 @@
 2022-04-25 19:43:12,547 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ssd-hw\hw2\SpringIdol2(lecture3)\src\test\resources
 2022-04-25 19:48:18,572 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-25 19:48:18,573 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-04-25 19:48:18,575 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-25 19:48:18,575 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ssd-hw\hw2\SpringIdol2(lecture3)\src\test\resources

@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\ssd-hw\hw1\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-1654256181.index
-2884646455.index
