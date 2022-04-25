@@ -1,5 +1,7 @@
 package com.example.springidol.annotation;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
 import com.example.springidol.Performer;
 import com.example.springidol.TalentCompetition;
 

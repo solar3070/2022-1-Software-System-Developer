@@ -2,6 +2,9 @@ package com.example.springidol.annotation;
 
 import java.util.Collection;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+
 import com.example.springidol.Instrument;
 import com.example.springidol.PerformanceException;
 import com.example.springidol.Performer;
